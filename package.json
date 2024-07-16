@@ -1,0 +1,27 @@
+{
+  "name": "markdown-advance",
+  "version": "2.2.3",
+  "description": "NPM package for markdown HTML tag formatting",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umesh-goldenmace/markdown-advance.git"
+  },
+  "keywords": [
+    "npm",
+    "markdown",
+    "react"
+  ],
+  "author": "Umesh Taviya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umesh-goldenmace/markdown-advance/issues"
+  },
+  "homepage": "https://github.com/umesh-goldenmace/markdown-advance#readme",
+  "dependencies": {
+    "react-markdown": "^9.0.1"
+  }
+}
